@@ -8,6 +8,10 @@ test_valid_features_file_path = './temp/test_valid_features.csv'
 train_data_features_file_path = './temp/train_data_features.csv'
 test_data_features_file_path = './temp/test_data_features.csv'
 
+train_valid_features_2_file_path = './temp/train_valid_features_2.csv'
+test_valid_features_2_file_path = './temp/test_valid_features_2.csv'
+train_data_features_2_file_path = './temp/train_data_features_2.csv'
+test_data_features_2_file_path = './temp/test_data_features_2.csv'
 # result data
 model_path = './result/model/model'
 model_train_log = 'train.log'
